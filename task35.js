@@ -13,6 +13,5 @@ if(first==second ){
 }else{
      checkNumber = false;
 }
-//    checkNumber =true;
     return checkNumber ;
 }
