@@ -1,17 +1,17 @@
 let longString1;
 
 let changeString1;
-leti=0
+let i=0;
 
 longString1 = prompt ("Введите строку");
 for (let i=0;i<1;i++){
     changeString1 = longString1[i].toUpperCase() ;
 }
 
-alert(changeString1+longString1.slice(1));
+alert(changeString1 + longString1.slice(1));
 
 
-
+// Сплсоб2
 
 let longString2;
 let changeString2;
