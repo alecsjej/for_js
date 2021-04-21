@@ -1,0 +1,25 @@
+
+//var cicleVariate ;
+
+
+var MassiveBoolean  ;
+MassiveBoolean = false;
+//cicleVariate = +prompt("Введите количество данных в цикле");
+let massiv=[5,4,9,6,1];
+
+
+
+//massiv.forEach(5 e=>alert("hw"))
+for(i=0;i<massiv.length;i++){
+  // ищем элемент   массива со значением 5
+    if(value =5)  {
+        if(MassiveBoolean == false)
+            MassiveBoolean = !MassiveBoolean;
+        }
+ 
+        break ;
+    }
+
+alert(MassiveBoolean);
+
+
