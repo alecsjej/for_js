@@ -7,7 +7,7 @@ function calcBoolean(checkNumber){
 first = +prompt("Введите первое число");
 second = +prompt("Введите второе число");
 
-if(first>second ){
+if(first==second ){
 
     checkNumber = true;
 }else{
