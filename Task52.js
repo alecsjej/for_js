@@ -4,6 +4,9 @@ let check;
 
 
 function IsNumerInRang(numer){
+   
+//задаём значение ложь логической переменной
+
     numberCheck = false;
     if (numer>0&&numer<10){
  
